@@ -15,7 +15,3 @@ This resume is written in LaTeX, using a custom template. It includes details ab
 ## How to Use
 
 To generate the PDF version of the resume, compile the `resume.tex` file using a LaTeX editor or command line tool like `pdflatex` or `xelatex`.
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify the template according to your needs.
